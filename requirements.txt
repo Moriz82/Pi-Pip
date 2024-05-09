@@ -1,0 +1,8 @@
+pygame
+requests
+xmltodict
+numpy
+Pillow
+pyky040
+mutagen
+ez-profile
